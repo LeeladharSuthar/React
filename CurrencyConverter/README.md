@@ -1,4 +1,16 @@
-# Currency Converter
+
+# React Currency Converter
+
+This project is a simple React application that allows users to convert between different currencies. It utilizes an external API to fetch real-time exchange rates and provides a user-friendly interface for currency conversion.
+
+## Features
+
+- Convert between different currencies using real-time exchange rates.
+- Select base and target currencies from a dropdown menu.
+- Display conversion results instantly.
+
+
+
 
 ### Api Used
 [Api](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json) : `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json`
@@ -21,5 +33,3 @@ export default function Form() {
   );
 }
 ```
-
-# Custom Hooks

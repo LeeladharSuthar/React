@@ -1,4 +1,10 @@
-# Color Changer using React and Tailwind
+# React Background Color Changer
 
-1. color is changed using useState()
-2. The onClick takes a arrow function bcoz normal function cannot take parameter. i.e., if onClick(increment("red")) is used then the onClick is holding the returned value of increment function. Therefore arrow function is used.
+This project is a simple React application that allows users to change the background color dynamically by clicking on a button. It's a great demonstration of React state management and event handling.
+
+## Features
+
+- Change the background color by clicking on the "Color" button.
+- User-friendly interface.
+
+
