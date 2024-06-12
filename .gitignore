@@ -4,6 +4,8 @@ logs
 **/*.backup.*
 **/*.back.*
 
+**/node_modules
+
 node_modules
 bower_components
 
@@ -12,9 +14,5 @@ bower_components
 psd
 thumb
 sketch
-**/node_modules
-# End of https://mrkandreev.name/snippets/gitignore-generator/#react
 
-ReactRouter
-useState
-Props
+# End of https://mrkandreev.name/snippets/gitignore-generator/#react
